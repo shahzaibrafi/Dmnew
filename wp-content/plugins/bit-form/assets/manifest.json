@@ -1,0 +1,6072 @@
+{
+  "../logo.svg": {
+    "file": "logo.svg",
+    "src": "../logo.svg"
+  },
+  "../node_modules/.pnpm/react-color-gradient-picker@0.1.2_react-dom@18.3.1_react@18.3.1/node_modules/react-color-gradient-picker/dist/assets/images/alpha-background.svg": {
+    "file": "bf-301-62.svg",
+    "src": "../node_modules/.pnpm/react-color-gradient-picker@0.1.2_react-dom@18.3.1_react@18.3.1/node_modules/react-color-gradient-picker/dist/assets/images/alpha-background.svg"
+  },
+  "FormDetails.css": {
+    "file": "bf-924-415.css",
+    "src": "FormDetails.css"
+  },
+  "GridLayout.css": {
+    "file": "bf-670-417.css",
+    "src": "GridLayout.css"
+  },
+  "SimpleGradientColorPicker.css": {
+    "file": "bf-5-418.css",
+    "src": "SimpleGradientColorPicker.css"
+  },
+  "TinyMCE.css": {
+    "file": "bf-812-420.css",
+    "src": "TinyMCE.css"
+  },
+  "Tip.css": {
+    "file": "bf-496-416.css",
+    "src": "Tip.css"
+  },
+  "_bf-102-76.js": {
+    "file": "bf-102-76.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-108-114.js": {
+    "file": "bf-108-114.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-120-151.js": {
+    "file": "bf-120-151.js",
+    "imports": [
+      "main.jsx",
+      "_bf-303-152.js",
+      "_bf-149-112.js"
+    ]
+  },
+  "_bf-126-381.js": {
+    "file": "bf-126-381.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-884-380.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-133-346.js": {
+    "file": "bf-133-346.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-743-127.js",
+      "_bf-219-345.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-134-124.js": {
+    "file": "bf-134-124.js"
+  },
+  "_bf-140-383.js": {
+    "file": "bf-140-383.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-647-118.js",
+      "_bf-270-382.js"
+    ]
+  },
+  "_bf-149-112.js": {
+    "file": "bf-149-112.js",
+    "imports": [
+      "main.jsx",
+      "_bf-610-73.js"
+    ]
+  },
+  "_bf-154-318.js": {
+    "file": "bf-154-318.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-610-73.js",
+      "_bf-882-162.js"
+    ]
+  },
+  "_bf-17-106.js": {
+    "css": [
+      "bf-670-417.css"
+    ],
+    "dynamicImports": [
+      "components/FieldBlockWrapper.jsx"
+    ],
+    "file": "bf-17-106.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-311-113.js",
+      "_bf-259-154.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-183-126.js": {
+    "file": "bf-183-126.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-198-399.js": {
+    "file": "bf-198-399.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-199-149.js": {
+    "file": "bf-199-149.js"
+  },
+  "_bf-20-163.js": {
+    "file": "bf-20-163.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-626-160.js"
+    ]
+  },
+  "_bf-207-123.js": {
+    "file": "bf-207-123.js",
+    "imports": [
+      "_bf-134-124.js"
+    ]
+  },
+  "_bf-219-345.js": {
+    "file": "bf-219-345.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-219-377.js": {
+    "file": "bf-219-377.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-221-328.js": {
+    "file": "bf-221-328.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js"
+    ]
+  },
+  "_bf-239-391.js": {
+    "file": "bf-239-391.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-242-363.js": {
+    "file": "bf-242-363.js"
+  },
+  "_bf-250-390.js": {
+    "file": "bf-250-390.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-80-389.js"
+    ]
+  },
+  "_bf-252-388.js": {
+    "file": "bf-252-388.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-259-154.js": {
+    "file": "bf-259-154.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-270-382.js": {
+    "file": "bf-270-382.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-288-77.js": {
+    "file": "bf-288-77.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-29-327.js": {
+    "file": "bf-29-327.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-485-83.js"
+    ]
+  },
+  "_bf-290-93.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/CompSettings/AdvanceFileUpSettings.jsx",
+      "components/CompSettings/ButtonSettings.jsx",
+      "components/CompSettings/CountryFieldSettings.jsx",
+      "components/CompSettings/CurrencyFieldSettings.jsx",
+      "components/CompSettings/DecisionBoxSettings.jsx",
+      "components/CompSettings/DividerSettings.jsx",
+      "components/CompSettings/DropdownFieldSettings.jsx",
+      "components/CompSettings/FileUploadSettings.jsx",
+      "components/CompSettings/HtmlFieldSettings.jsx",
+      "components/CompSettings/HtmlSelectSettings.jsx",
+      "components/CompSettings/ImageSettings.jsx",
+      "components/CompSettings/PaypalFieldSettings.jsx",
+      "components/CompSettings/StripeFieldSettings.jsx",
+      "components/CompSettings/PhoneNumberFieldSettings.jsx",
+      "components/CompSettings/RadioCheckSettings.jsx",
+      "components/CompSettings/RazorpayFieldSettings.jsx",
+      "components/CompSettings/ReCaptchaSettings.jsx",
+      "components/CompSettings/TurnstileSettings.jsx",
+      "components/CompSettings/TextFieldSettings.jsx",
+      "components/CompSettings/SliderFieldSettings.jsx",
+      "components/CompSettings/TitleSettings.jsx",
+      "components/CompSettings/RepeaterFieldSettings.jsx",
+      "components/CompSettings/SignatureField/SignatureFieldSettings.jsx",
+      "components/CompSettings/RatingField/RatingFieldSettings.jsx",
+      "components/CompSettings/ImageSelectField/ImageSelectFieldSettings.jsx"
+    ],
+    "file": "bf-290-93.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-336-157.js",
+      "_bf-526-189.js",
+      "_bf-493-110.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-149-112.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-303-152.js": {
+    "file": "bf-303-152.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-305-396.js": {
+    "file": "bf-305-396.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-653-395.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-311-113.js": {
+    "file": "bf-311-113.js",
+    "imports": [
+      "main.jsx",
+      "_bf-610-73.js"
+    ]
+  },
+  "_bf-312-368.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-312-368.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-32-121.js": {
+    "file": "bf-32-121.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-320-401.js": {
+    "file": "bf-320-401.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-325-82.js": {
+    "file": "bf-325-82.js"
+  },
+  "_bf-336-157.js": {
+    "file": "bf-336-157.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-341-342.js": {
+    "file": "bf-341-342.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-896-341.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-352-145.js": {
+    "file": "bf-352-145.js",
+    "imports": [
+      "main.jsx",
+      "_bf-311-113.js"
+    ]
+  },
+  "_bf-356-387.js": {
+    "file": "bf-356-387.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-359-359.js": {
+    "file": "bf-359-359.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-367-71.js": {
+    "file": "bf-367-71.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-372-117.js": {
+    "file": "bf-372-117.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-377-331.js": {
+    "file": "bf-377-331.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-38-369.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-38-369.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-387-155.js": {
+    "file": "bf-387-155.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-390-347.js": {
+    "file": "bf-390-347.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-395-364.js": {
+    "file": "bf-395-364.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-396-375.js": {
+    "file": "bf-396-375.js",
+    "imports": [
+      "main.jsx",
+      "_bf-648-122.js"
+    ]
+  },
+  "_bf-398-348.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-398-348.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-647-118.js"
+    ]
+  },
+  "_bf-405-365.js": {
+    "file": "bf-405-365.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-242-363.js",
+      "_bf-395-364.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-41-74.js": {
+    "file": "bf-41-74.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-417-108.js": {
+    "assets": [
+      "bf-301-62.svg"
+    ],
+    "css": [
+      "bf-5-418.css"
+    ],
+    "file": "bf-417-108.js",
+    "imports": [
+      "main.jsx",
+      "_bf-493-110.js"
+    ]
+  },
+  "_bf-419-81.js": {
+    "file": "bf-419-81.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-425-371.js": {
+    "file": "bf-425-371.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-965-370.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ]
+  },
+  "_bf-426-146.js": {
+    "file": "bf-426-146.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-434-119.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-434-119.js",
+    "imports": [
+      "main.jsx",
+      "_bf-207-123.js",
+      "_bf-134-124.js",
+      "_bf-713-125.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-288-77.js",
+      "_bf-183-126.js",
+      "_bf-743-127.js",
+      "_bf-818-129.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js"
+    ]
+  },
+  "_bf-435-394.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-435-394.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-67-72.js",
+      "_bf-715-393.js",
+      "_bf-680-336.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-44-197.js": {
+    "file": "bf-44-197.js"
+  },
+  "_bf-445-332.js": {
+    "file": "bf-445-332.js"
+  },
+  "_bf-45-340.js": {
+    "file": "bf-45-340.js",
+    "imports": [
+      "main.jsx",
+      "_bf-475-339.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-475-339.js": {
+    "file": "bf-475-339.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-485-83.js": {
+    "assets": [
+      "bf-881-63.png",
+      "bf-525-64.png",
+      "bf-147-65.png"
+    ],
+    "dynamicImports": [
+      "components/CompSettings/StyleCustomize/DropdownStyleEditors.jsx",
+      "components/CompSettings/StyleCustomize/PaypalStyleEditor.jsx",
+      "_bf-621-89.js",
+      "components/style-new/FieldStyleCustomize.jsx",
+      "components/style-new/ThemeCustomize.jsx",
+      "components/style-new/MultistepCustomize.jsx",
+      "_bf-290-93.js",
+      "components/CompSettings/MultiStepSettings.jsx",
+      "components/CompSettings/StepSettings.jsx",
+      "components/CompSettings/FieldsList.jsx",
+      "components/style-new/ThemeGallary.jsx",
+      "components/CompSettings/StyleCustomize/ChildComp/BorderControlMenu.jsx",
+      "components/CompSettings/StyleCustomize/ChildComp/OutlineControlMenu.jsx",
+      "components/style-new/SimpleColorsPickerMenu.jsx",
+      "components/style-new/FontPickerMenu.jsx",
+      "components/style-new/ShadowControlMenu.jsx",
+      "components/CompSettings/CustomCodeEditor.jsx",
+      "components/LeftBars/Toolbar.jsx",
+      "components/LeftBars/StyleLayers.jsx",
+      "_bf-17-106.js"
+    ],
+    "file": "bf-485-83.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-610-73.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-489-107.js": {
+    "file": "bf-489-107.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-492-354.js": {
+    "file": "bf-492-354.js",
+    "imports": [
+      "main.jsx",
+      "_bf-41-74.js",
+      "_bf-67-72.js",
+      "_bf-751-353.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-493-110.js": {
+    "file": "bf-493-110.js",
+    "imports": [
+      "main.jsx",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js"
+    ]
+  },
+  "_bf-501-79.js": {
+    "file": "bf-501-79.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-508-158.js": {
+    "file": "bf-508-158.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-626-160.js",
+      "_bf-485-83.js"
+    ]
+  },
+  "_bf-512-335.js": {
+    "file": "bf-512-335.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-774-334.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-526-189.js": {
+    "file": "bf-526-189.js",
+    "imports": [
+      "main.jsx",
+      "_bf-493-110.js",
+      "_bf-610-73.js",
+      "_bf-485-83.js",
+      "_bf-352-145.js",
+      "_bf-336-157.js"
+    ]
+  },
+  "_bf-526-402.js": {
+    "file": "bf-526-402.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js"
+    ]
+  },
+  "_bf-53-159.js": {
+    "file": "bf-53-159.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-536-85.js": {
+    "dynamicImports": [
+      "components/EmailTemplate.jsx",
+      "components/PDF/PdfTemplate.jsx",
+      "components/AuthSettings.jsx",
+      "_bf-63-135.js",
+      "components/Workflows/Workflow.jsx",
+      "components/ConfType.jsx",
+      "components/SingleFormSettings.jsx",
+      "components/ConversationalFormSettings.jsx",
+      "components/CompSettings/doubleOptin/DoubleOptin.jsx",
+      "components/FormSettings/FormAbandonment.jsx",
+      "components/FormSettings/StandaloneForm.jsx"
+    ],
+    "file": "bf-536-85.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-501-79.js",
+      "_bf-833-143.js",
+      "_bf-873-116.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-537-398.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-537-398.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-6-397.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ]
+  },
+  "_bf-54-316.js": {
+    "file": "bf-54-316.js",
+    "imports": [
+      "main.jsx",
+      "_bf-99-111.js",
+      "_bf-183-126.js",
+      "_bf-311-113.js"
+    ]
+  },
+  "_bf-542-156.js": {
+    "file": "bf-542-156.js"
+  },
+  "_bf-554-131.js": {
+    "file": "bf-554-131.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-560-362.js": {
+    "file": "bf-560-362.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-57-191.js": {
+    "file": "bf-57-191.js"
+  },
+  "_bf-580-376.js": {
+    "file": "bf-580-376.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-598-148.js": {
+    "file": "bf-598-148.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-6-397.js": {
+    "file": "bf-6-397.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-608-324.js": {
+    "file": "bf-608-324.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-526-189.js",
+      "_bf-493-110.js"
+    ]
+  },
+  "_bf-610-73.js": {
+    "css": [
+      "bf-496-416.css"
+    ],
+    "file": "bf-610-73.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-621-89.js": {
+    "file": "bf-621-89.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-493-110.js",
+      "_bf-387-155.js",
+      "_bf-417-108.js",
+      "_bf-489-107.js",
+      "_bf-485-83.js",
+      "_bf-32-121.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-626-160.js": {
+    "file": "bf-626-160.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-485-83.js",
+      "_bf-882-162.js",
+      "_bf-610-73.js"
+    ]
+  },
+  "_bf-63-135.js": {
+    "assets": [
+      "bf-771-8.svg",
+      "bf-836-9.svg",
+      "bf-114-10.svg",
+      "bf-196-11.svg",
+      "bf-818-12.svg",
+      "bf-207-13.svg",
+      "bf-435-14.svg",
+      "bf-343-15.svg",
+      "bf-848-16.svg",
+      "bf-879-20.svg",
+      "bf-265-17.svg",
+      "bf-890-18.svg",
+      "bf-598-19.svg",
+      "bf-534-21.svg",
+      "bf-728-23.svg",
+      "bf-622-22.svg",
+      "bf-821-24.svg",
+      "bf-840-25.svg",
+      "bf-80-26.svg",
+      "bf-424-27.svg",
+      "bf-588-28.svg",
+      "bf-388-29.svg",
+      "bf-149-30.svg",
+      "bf-314-31.svg",
+      "bf-728-32.svg",
+      "bf-276-33.svg",
+      "bf-485-34.svg",
+      "bf-282-35.svg",
+      "bf-521-36.svg",
+      "bf-871-37.svg",
+      "bf-94-39.svg",
+      "bf-155-38.svg",
+      "bf-640-40.svg",
+      "bf-425-41.svg",
+      "bf-441-42.svg",
+      "bf-438-43.svg",
+      "bf-780-44.svg",
+      "bf-872-45.svg",
+      "bf-162-46.svg",
+      "bf-298-47.svg",
+      "bf-602-48.svg",
+      "bf-858-50.svg",
+      "bf-131-49.svg",
+      "bf-333-51.svg",
+      "bf-669-52.svg",
+      "bf-824-54.svg",
+      "bf-796-56.svg",
+      "bf-850-53.svg",
+      "bf-144-59.svg",
+      "bf-711-55.svg",
+      "bf-937-57.svg",
+      "bf-729-58.svg",
+      "bf-53-60.svg"
+    ],
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/ZohoAnalytics/EditZohoAnalytics.jsx",
+      "components/AllIntegrations/ZohoBigin/EditZohoBigin.jsx",
+      "components/AllIntegrations/ZohoCampaigns/EditZohoCampaigns.jsx",
+      "components/AllIntegrations/ZohoCreator/EditZohoCreator.jsx",
+      "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx",
+      "components/AllIntegrations/ZohoDesk/EditZohoDesk.jsx",
+      "components/AllIntegrations/ZohoMail/EditZohoMail.jsx",
+      "components/AllIntegrations/ZohoMarketingHub/EditZohoMarketingHub.jsx",
+      "components/AllIntegrations/ZohoProjects/EditZohoProjects.jsx",
+      "components/AllIntegrations/ZohoRecruit/EditZohoRecruit.jsx",
+      "components/AllIntegrations/ZohoSheet/EditZohoSheet.jsx",
+      "components/AllIntegrations/ZohoSign/EditZohoSign.jsx",
+      "components/AllIntegrations/ZohoWorkDrive/EditZohoWorkDrive.jsx",
+      "components/AllIntegrations/GoogleSheet/EditGoogleSheet.jsx",
+      "components/AllIntegrations/MailChimp/EditMailChimp.jsx",
+      "components/AllIntegrations/Rapidmail/EditRapidmail.jsx",
+      "components/AllIntegrations/Hubspot/EditHubspot.jsx",
+      "components/AllIntegrations/Getgist/EditGetgist.jsx",
+      "components/AllIntegrations/ElasticEmail/EditElasticEmail.jsx",
+      "components/AllIntegrations/Acf/EditAcf.jsx",
+      "components/AllIntegrations/Metabox/EdtiMetabox.jsx",
+      "components/AllIntegrations/Pods/EditPod.jsx",
+      "components/AllIntegrations/MailPoet/EditMailPoet.jsx",
+      "components/AllIntegrations/SendinBlue/EditSendinBlue.jsx",
+      "components/AllIntegrations/WooCommerce/EditWooCommerce.jsx",
+      "components/AllIntegrations/ActiveCampaign/EditActiveCampaign.jsx",
+      "components/AllIntegrations/WebHooks/EditWebHooks.jsx",
+      "components/AllIntegrations/Zapier/EditZapier.jsx",
+      "components/AllIntegrations/Integromat/EditIntegromat.jsx",
+      "components/AllIntegrations/ZohoFlow/EditZohoFlow.jsx",
+      "components/AllIntegrations/Integrately/EditIntegrately.jsx",
+      "components/AllIntegrations/Pabbly/EditPabbly.jsx",
+      "components/AllIntegrations/Telegram/EditTelegram.jsx",
+      "components/AllIntegrations/FluentCRM/EditFluentCrm.jsx",
+      "components/AllIntegrations/Encharge/EditEncharge.jsx",
+      "components/AllIntegrations/Autonami/EditAutonami.jsx",
+      "components/AllIntegrations/Dropbox/EditDropbox.jsx",
+      "components/AllIntegrations/OneDrive/EditOneDrive.jsx",
+      "components/AllIntegrations/Acumbamail/EditAcumbamail.jsx",
+      "components/AllIntegrations/Groundhogg/EditGroundhogg.jsx",
+      "components/AllIntegrations/SendFox/EditSendFox.jsx",
+      "components/AllIntegrations/MailerLite/EditMailerLite.jsx",
+      "components/AllIntegrations/Twilio/EditTwilio.jsx",
+      "components/AllIntegrations/ActiveCampaign/ActiveCampaignAuthorization.jsx",
+      "components/AllIntegrations/GoogleSheet/GoogleSheetAuthorization.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/MailChimp/MailChimpAuthorization.jsx",
+      "components/AllIntegrations/Rapidmail/RapidmailAuthorization.jsx",
+      "components/AllIntegrations/ElasticEmail/ElasticEmailAuthorization.jsx",
+      "components/AllIntegrations/SendinBlue/SendinBlueAuthorization.jsx",
+      "components/AllIntegrations/Telegram/TelegramAuthorization.jsx",
+      "components/AllIntegrations/ZohoAnalytics/ZohoAnalyticsAuthorization.jsx",
+      "components/AllIntegrations/ZohoBigin/ZohoBiginAuthorization.jsx",
+      "components/AllIntegrations/ZohoCampaigns/ZohoCampaignsAuthorization.jsx",
+      "components/AllIntegrations/ZohoCreator/ZohoCreatorAuthorization.jsx",
+      "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx",
+      "components/AllIntegrations/ZohoDesk/ZohoDeskAuthorization.jsx",
+      "components/AllIntegrations/ZohoMail/ZohoMailAuthorization.jsx",
+      "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHubAuthorization.jsx",
+      "components/AllIntegrations/ZohoProjects/ZohoProjectsAuthorization.jsx",
+      "components/AllIntegrations/ZohoRecruit/ZohoRecruitAuthorization.jsx",
+      "components/AllIntegrations/ZohoSheet/ZohoSheetAuthorization.jsx",
+      "components/AllIntegrations/ZohoSign/ZohoSignAuthorization.jsx",
+      "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDriveAuthorization.jsx",
+      "components/AllIntegrations/Encharge/EnchargeAuthorization.jsx",
+      "components/AllIntegrations/OneDrive/OneDriveAuthorization.jsx",
+      "components/AllIntegrations/Acumbamail/AcumbamailAuthorization.jsx",
+      "components/AllIntegrations/Groundhogg/GroundhoggAuthorization.jsx",
+      "components/AllIntegrations/SendFox/SendFoxAuthorization.jsx",
+      "components/AllIntegrations/MailerLite/MailerLiteAuthorization.jsx",
+      "components/AllIntegrations/Twilio/TwilioAuthorization.jsx",
+      "components/AllIntegrations/Getgist/GetgistAuthorization.jsx",
+      "main.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx",
+      "components/AllIntegrations/ZohoAnalytics/ZohoAnalytics.jsx",
+      "components/AllIntegrations/ZohoBigin/ZohoBigin.jsx",
+      "components/AllIntegrations/ZohoCampaigns/ZohoCampaigns.jsx",
+      "components/AllIntegrations/ZohoCreator/ZohoCreator.jsx",
+      "components/AllIntegrations/ZohoDesk/ZohoDesk.jsx",
+      "components/AllIntegrations/ZohoMail/ZohoMail.jsx",
+      "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHub.jsx",
+      "components/AllIntegrations/ZohoProjects/ZohoProjects.jsx",
+      "components/AllIntegrations/ZohoRecruit/ZohoRecruit.jsx",
+      "components/AllIntegrations/ZohoSheet/ZohoSheet.jsx",
+      "components/AllIntegrations/ZohoSign/ZohoSign.jsx",
+      "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDrive.jsx",
+      "components/AllIntegrations/GoogleSheet/GoogleSheet.jsx",
+      "components/AllIntegrations/MailChimp/MailChimp.jsx",
+      "components/AllIntegrations/Rapidmail/Rapidmail.jsx",
+      "components/AllIntegrations/Hubspot/Hubspot.jsx",
+      "components/AllIntegrations/Getgist/Getgist.jsx",
+      "components/AllIntegrations/ElasticEmail/ElasticEmail.jsx",
+      "components/AllIntegrations/Acf/Acf.jsx",
+      "components/AllIntegrations/Metabox/Metabox.jsx",
+      "components/AllIntegrations/MailPoet/MailPoet.jsx",
+      "components/AllIntegrations/SendinBlue/SendinBlue.jsx",
+      "components/AllIntegrations/WooCommerce/WooCommerce.jsx",
+      "components/AllIntegrations/ActiveCampaign/ActiveCampaign.jsx",
+      "components/AllIntegrations/WebHooks/WebHooks.jsx",
+      "components/AllIntegrations/Zapier/Zapier.jsx",
+      "components/AllIntegrations/Integromat/Integromat.jsx",
+      "components/AllIntegrations/ZohoFlow/ZohoFlow.jsx",
+      "components/AllIntegrations/Integrately/Integrately.jsx",
+      "components/AllIntegrations/Pabbly/Pabbly.jsx",
+      "components/AllIntegrations/Pods/Pods.jsx",
+      "components/AllIntegrations/Telegram/Telegram.jsx",
+      "components/AllIntegrations/FluentCRM/FluentCrm.jsx",
+      "components/AllIntegrations/Encharge/Encharge.jsx",
+      "components/AllIntegrations/Autonami/Autonami.jsx",
+      "components/AllIntegrations/Dropbox/Dropbox.jsx",
+      "components/AllIntegrations/Acumbamail/Acumbamail.jsx",
+      "components/AllIntegrations/OneDrive/OneDrive.jsx",
+      "components/AllIntegrations/Groundhogg/Groundhogg.jsx",
+      "components/AllIntegrations/SendFox/SendFox.jsx",
+      "components/AllIntegrations/MailerLite/MailerLite.jsx",
+      "components/AllIntegrations/Twilio/Twilio.jsx"
+    ],
+    "file": "bf-63-135.js",
+    "imports": [
+      "main.jsx",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-647-118.js": {
+    "css": [
+      "bf-812-420.css"
+    ],
+    "file": "bf-647-118.js",
+    "imports": [
+      "main.jsx",
+      "_bf-648-122.js"
+    ]
+  },
+  "_bf-648-122.js": {
+    "file": "bf-648-122.js"
+  },
+  "_bf-649-349.js": {
+    "file": "bf-649-349.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-650-384.js": {
+    "file": "bf-650-384.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-653-395.js": {
+    "file": "bf-653-395.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-66-385.js": {
+    "file": "bf-66-385.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-660-147.js": {
+    "file": "bf-660-147.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-67-358.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-67-358.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-501-79.js",
+      "_bf-647-118.js",
+      "_bf-89-357.js"
+    ]
+  },
+  "_bf-67-72.js": {
+    "file": "bf-67-72.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-678-356.js": {
+    "file": "bf-678-356.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-701-355.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-680-336.js": {
+    "file": "bf-680-336.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-681-150.js": {
+    "file": "bf-681-150.js"
+  },
+  "_bf-69-80.js": {
+    "file": "bf-69-80.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-701-355.js": {
+    "file": "bf-701-355.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-706-86.js": {
+    "css": [
+      "bf-747-419.css"
+    ],
+    "dynamicImports": [
+      "components/ReportView/FieldReport.jsx"
+    ],
+    "file": "bf-706-86.js",
+    "imports": [
+      "main.jsx",
+      "_bf-352-145.js",
+      "_bf-434-119.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-818-129.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-713-125.js": {
+    "file": "bf-713-125.js",
+    "imports": [
+      "main.jsx",
+      "_bf-134-124.js"
+    ]
+  },
+  "_bf-715-393.js": {
+    "file": "bf-715-393.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-716-378.js": {
+    "file": "bf-716-378.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-219-377.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-718-351.js": {
+    "file": "bf-718-351.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-721-352.js": {
+    "file": "bf-721-352.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-718-351.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-729-161.js": {
+    "file": "bf-729-161.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js"
+    ]
+  },
+  "_bf-729-379.js": {
+    "file": "bf-729-379.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-743-127.js": {
+    "file": "bf-743-127.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-75-374.js": {
+    "file": "bf-75-374.js",
+    "imports": [
+      "main.jsx",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-751-353.js": {
+    "file": "bf-751-353.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-752-337.js": {
+    "file": "bf-752-337.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-754-373.js": {
+    "file": "bf-754-373.js",
+    "imports": [
+      "main.jsx",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-766-192.js": {
+    "file": "bf-766-192.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-767-78.js": {
+    "file": "bf-767-78.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-769-109.js": {
+    "file": "bf-769-109.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js"
+    ]
+  },
+  "_bf-773-372.js": {
+    "file": "bf-773-372.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-774-334.js": {
+    "file": "bf-774-334.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-776-325.js": {
+    "file": "bf-776-325.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-336-157.js",
+      "_bf-526-189.js",
+      "_bf-766-192.js",
+      "_bf-493-110.js",
+      "_bf-809-326.js"
+    ]
+  },
+  "_bf-796-190.js": {
+    "file": "bf-796-190.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-796-350.js": {
+    "file": "bf-796-350.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-649-349.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-8-69.js": {
+    "css": [
+      "bf-924-415.css"
+    ],
+    "dynamicImports": [
+      "_bf-485-83.js",
+      "pages/FormEntries.jsx",
+      "_bf-536-85.js",
+      "_bf-706-86.js"
+    ],
+    "file": "bf-8-69.js",
+    "imports": [
+      "main.jsx",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_bf-80-389.js": {
+    "file": "bf-80-389.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-800-386.js": {
+    "file": "bf-800-386.js",
+    "imports": [
+      "main.jsx",
+      "_bf-149-112.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-803-75.js": {
+    "file": "bf-803-75.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-809-326.js": {
+    "file": "bf-809-326.js",
+    "imports": [
+      "main.jsx",
+      "_bf-766-192.js",
+      "_bf-149-112.js",
+      "_bf-526-189.js",
+      "_bf-647-118.js"
+    ]
+  },
+  "_bf-810-360.js": {
+    "file": "bf-810-360.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-680-336.js",
+      "_bf-359-359.js"
+    ]
+  },
+  "_bf-818-129.js": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-818-129.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js"
+    ]
+  },
+  "_bf-827-323.js": {
+    "file": "bf-827-323.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-526-189.js",
+      "_bf-493-110.js"
+    ]
+  },
+  "_bf-827-330.js": {
+    "file": "bf-827-330.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-809-326.js"
+    ]
+  },
+  "_bf-833-143.js": {
+    "file": "bf-833-143.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-847-196.js": {
+    "file": "bf-847-196.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-848-343.js": {
+    "file": "bf-848-343.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-861-367.js": {
+    "file": "bf-861-367.js",
+    "imports": [
+      "main.jsx",
+      "_bf-882-366.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-873-116.js": {
+    "file": "bf-873-116.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-878-130.js": {
+    "file": "bf-878-130.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-882-162.js": {
+    "file": "bf-882-162.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-882-366.js": {
+    "file": "bf-882-366.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-884-380.js": {
+    "file": "bf-884-380.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-888-333.js": {
+    "file": "bf-888-333.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-89-357.js": {
+    "file": "bf-89-357.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-89-400.js": {
+    "file": "bf-89-400.js",
+    "imports": [
+      "main.jsx",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-892-361.js": {
+    "file": "bf-892-361.js",
+    "imports": [
+      "main.jsx",
+      "_bf-560-362.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-896-341.js": {
+    "file": "bf-896-341.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-929-329.js": {
+    "file": "bf-929-329.js",
+    "imports": [
+      "main.jsx",
+      "_bf-493-110.js",
+      "_bf-803-75.js",
+      "_bf-8-69.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-149-112.js",
+      "_bf-937-115.js",
+      "_bf-485-83.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js"
+    ]
+  },
+  "_bf-932-200.js": {
+    "file": "bf-932-200.js",
+    "imports": [
+      "main.jsx",
+      "_bf-647-118.js",
+      "_bf-102-76.js",
+      "_bf-149-112.js"
+    ]
+  },
+  "_bf-937-115.js": {
+    "file": "bf-937-115.js",
+    "imports": [
+      "main.jsx",
+      "_bf-713-125.js"
+    ]
+  },
+  "_bf-951-195.js": {
+    "file": "bf-951-195.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-965-370.js": {
+    "file": "bf-965-370.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-966-338.js": {
+    "file": "bf-966-338.js",
+    "imports": [
+      "main.jsx",
+      "_bf-41-74.js",
+      "_bf-752-337.js",
+      "_bf-67-72.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-97-403.js": {
+    "file": "bf-97-403.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "_bf-979-392.js": {
+    "file": "bf-979-392.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-239-391.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js",
+      "_bf-242-363.js"
+    ]
+  },
+  "_bf-986-344.js": {
+    "file": "bf-986-344.js",
+    "imports": [
+      "main.jsx",
+      "_bf-41-74.js",
+      "_bf-67-72.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-848-343.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ]
+  },
+  "_bf-99-111.js": {
+    "file": "bf-99-111.js",
+    "imports": [
+      "main.jsx"
+    ]
+  },
+  "components/AllIntegrations/Acf/Acf.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-724-292.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-44-197.js",
+      "_bf-149-112.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-754-373.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Acf/Acf.jsx"
+  },
+  "components/AllIntegrations/Acf/EditAcf.jsx": {
+    "file": "bf-971-221.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-149-112.js",
+      "_bf-67-72.js",
+      "_bf-754-373.js",
+      "_bf-610-73.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Acf/EditAcf.jsx"
+  },
+  "components/AllIntegrations/ActiveCampaign/ActiveCampaign.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-820-297.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ActiveCampaign/ActiveCampaignAuthorization.jsx",
+      "_bf-884-380.js",
+      "_bf-126-381.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ActiveCampaign/ActiveCampaign.jsx"
+  },
+  "components/AllIntegrations/ActiveCampaign/ActiveCampaignAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-145-245.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-884-380.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ActiveCampaign/ActiveCampaignAuthorization.jsx"
+  },
+  "components/AllIntegrations/ActiveCampaign/EditActiveCampaign.jsx": {
+    "file": "bf-360-227.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-884-380.js",
+      "_bf-126-381.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ActiveCampaign/EditActiveCampaign.jsx"
+  },
+  "components/AllIntegrations/Acumbamail/Acumbamail.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-226-310.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/Acumbamail/AcumbamailAuthorization.jsx",
+      "_bf-239-391.js",
+      "_bf-979-392.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js",
+      "_bf-242-363.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Acumbamail/Acumbamail.jsx"
+  },
+  "components/AllIntegrations/Acumbamail/AcumbamailAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-254-267.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-239-391.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Acumbamail/AcumbamailAuthorization.jsx"
+  },
+  "components/AllIntegrations/Acumbamail/EditAcumbamail.jsx": {
+    "file": "bf-304-240.js",
+    "imports": [
+      "main.jsx",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-239-391.js",
+      "_bf-979-392.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Acumbamail/EditAcumbamail.jsx"
+  },
+  "components/AllIntegrations/Autonami/Autonami.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-8-308.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-356-387.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Autonami/Autonami.jsx"
+  },
+  "components/AllIntegrations/Autonami/EditAutonami.jsx": {
+    "file": "bf-763-237.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-356-387.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Autonami/EditAutonami.jsx"
+  },
+  "components/AllIntegrations/Dropbox/Dropbox.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-108-309.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-252-388.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Dropbox/Dropbox.jsx"
+  },
+  "components/AllIntegrations/Dropbox/EditDropbox.jsx": {
+    "file": "bf-770-238.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-252-388.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Dropbox/EditDropbox.jsx"
+  },
+  "components/AllIntegrations/ElasticEmail/EditElasticEmail.jsx": {
+    "file": "bf-55-220.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-965-370.js",
+      "_bf-425-371.js",
+      "_bf-743-127.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ElasticEmail/EditElasticEmail.jsx"
+  },
+  "components/AllIntegrations/ElasticEmail/ElasticEmail.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-802-291.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "components/AllIntegrations/ElasticEmail/ElasticEmailAuthorization.jsx",
+      "_bf-965-370.js",
+      "_bf-425-371.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-743-127.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ElasticEmail/ElasticEmail.jsx"
+  },
+  "components/AllIntegrations/ElasticEmail/ElasticEmailAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-961-249.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-965-370.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ElasticEmail/ElasticEmailAuthorization.jsx"
+  },
+  "components/AllIntegrations/Encharge/EditEncharge.jsx": {
+    "file": "bf-565-236.js",
+    "imports": [
+      "main.jsx",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-66-385.js",
+      "_bf-800-386.js",
+      "_bf-149-112.js",
+      "_bf-610-73.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Encharge/EditEncharge.jsx"
+  },
+  "components/AllIntegrations/Encharge/Encharge.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-401-307.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "components/AllIntegrations/Encharge/EnchargeAuthorization.jsx",
+      "_bf-66-385.js",
+      "_bf-800-386.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-149-112.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Encharge/Encharge.jsx"
+  },
+  "components/AllIntegrations/Encharge/EnchargeAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-58-265.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-66-385.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Encharge/EnchargeAuthorization.jsx"
+  },
+  "components/AllIntegrations/FluentCRM/EditFluentCrm.jsx": {
+    "file": "bf-711-235.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-650-384.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/FluentCRM/EditFluentCrm.jsx"
+  },
+  "components/AllIntegrations/FluentCRM/FluentCrm.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-117-306.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-650-384.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/FluentCRM/FluentCrm.jsx"
+  },
+  "components/AllIntegrations/Getgist/EditGetgist.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-933-219.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-38-369.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Getgist/EditGetgist.jsx"
+  },
+  "components/AllIntegrations/Getgist/Getgist.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-537-290.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "components/AllIntegrations/Getgist/GetgistAuthorization.jsx",
+      "_bf-38-369.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Getgist/Getgist.jsx"
+  },
+  "components/AllIntegrations/Getgist/GetgistAuthorization.jsx": {
+    "file": "bf-265-272.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Getgist/GetgistAuthorization.jsx"
+  },
+  "components/AllIntegrations/GoogleSheet/EditGoogleSheet.jsx": {
+    "file": "bf-85-215.js",
+    "imports": [
+      "main.jsx",
+      "_bf-892-361.js",
+      "_bf-888-333.js",
+      "_bf-560-362.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/GoogleSheet/EditGoogleSheet.jsx"
+  },
+  "components/AllIntegrations/GoogleSheet/GoogleSheet.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-845-286.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-892-361.js",
+      "_bf-888-333.js",
+      "components/AllIntegrations/GoogleSheet/GoogleSheetAuthorization.jsx",
+      "_bf-560-362.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/GoogleSheet/GoogleSheet.jsx"
+  },
+  "components/AllIntegrations/GoogleSheet/GoogleSheetAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-579-246.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-560-362.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/GoogleSheet/GoogleSheetAuthorization.jsx"
+  },
+  "components/AllIntegrations/Groundhogg/EditGroundhogg.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-555-241.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-715-393.js",
+      "_bf-435-394.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-680-336.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Groundhogg/EditGroundhogg.jsx"
+  },
+  "components/AllIntegrations/Groundhogg/Groundhogg.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-816-312.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "components/AllIntegrations/Groundhogg/GroundhoggAuthorization.jsx",
+      "_bf-715-393.js",
+      "_bf-435-394.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-680-336.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Groundhogg/Groundhogg.jsx"
+  },
+  "components/AllIntegrations/Groundhogg/GroundhoggAuthorization.jsx": {
+    "file": "bf-486-268.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-715-393.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Groundhogg/GroundhoggAuthorization.jsx"
+  },
+  "components/AllIntegrations/Hubspot/EditHubspot.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-820-218.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-312-368.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Hubspot/EditHubspot.jsx"
+  },
+  "components/AllIntegrations/Hubspot/Hubspot.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-468-289.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-97-403.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-312-368.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Hubspot/Hubspot.jsx"
+  },
+  "components/AllIntegrations/Integrately/EditIntegrately.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-527-232.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-63-135.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Integrately/EditIntegrately.jsx"
+  },
+  "components/AllIntegrations/Integrately/Integrately.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-275-302.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Integrately/Integrately.jsx"
+  },
+  "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-901-201.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-8-69.js",
+      "_bf-183-126.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+  },
+  "components/AllIntegrations/Integromat/EditIntegromat.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-920-230.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-63-135.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Integromat/EditIntegromat.jsx"
+  },
+  "components/AllIntegrations/Integromat/Integromat.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-562-300.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Integromat/Integromat.jsx"
+  },
+  "components/AllIntegrations/MailChimp/EditMailChimp.jsx": {
+    "file": "bf-451-216.js",
+    "imports": [
+      "main.jsx",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-395-364.js",
+      "_bf-405-365.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailChimp/EditMailChimp.jsx"
+  },
+  "components/AllIntegrations/MailChimp/MailChimp.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-89-287.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/MailChimp/MailChimpAuthorization.jsx",
+      "_bf-395-364.js",
+      "_bf-405-365.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailChimp/MailChimp.jsx"
+  },
+  "components/AllIntegrations/MailChimp/MailChimpAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-734-247.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-395-364.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailChimp/MailChimpAuthorization.jsx"
+  },
+  "components/AllIntegrations/MailPoet/EditMailPoet.jsx": {
+    "file": "bf-259-224.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-580-376.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailPoet/EditMailPoet.jsx"
+  },
+  "components/AllIntegrations/MailPoet/MailPoet.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-374-294.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-580-376.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailPoet/MailPoet.jsx"
+  },
+  "components/AllIntegrations/MailerLite/EditMailerLite.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-105-243.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-6-397.js",
+      "_bf-537-398.js",
+      "_bf-743-127.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailerLite/EditMailerLite.jsx"
+  },
+  "components/AllIntegrations/MailerLite/MailerLite.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-144-314.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/MailerLite/MailerLiteAuthorization.jsx",
+      "_bf-6-397.js",
+      "_bf-537-398.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-97-403.js",
+      "_bf-320-401.js",
+      "_bf-57-191.js",
+      "_bf-743-127.js",
+      "_bf-878-130.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailerLite/MailerLite.jsx"
+  },
+  "components/AllIntegrations/MailerLite/MailerLiteAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-660-270.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-97-403.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-6-397.js",
+      "_bf-57-191.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/MailerLite/MailerLiteAuthorization.jsx"
+  },
+  "components/AllIntegrations/Metabox/EdtiMetabox.jsx": {
+    "file": "bf-976-222.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-149-112.js",
+      "_bf-67-72.js",
+      "_bf-75-374.js",
+      "_bf-610-73.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Metabox/EdtiMetabox.jsx"
+  },
+  "components/AllIntegrations/Metabox/Metabox.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-831-293.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-44-197.js",
+      "_bf-149-112.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-75-374.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Metabox/Metabox.jsx"
+  },
+  "components/AllIntegrations/OneDrive/EditOneDrive.jsx": {
+    "file": "bf-233-239.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-80-389.js",
+      "_bf-250-390.js",
+      "_bf-743-127.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/OneDrive/EditOneDrive.jsx"
+  },
+  "components/AllIntegrations/OneDrive/OneDrive.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-917-311.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/OneDrive/OneDriveAuthorization.jsx",
+      "_bf-250-390.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-80-389.js",
+      "_bf-743-127.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/OneDrive/OneDrive.jsx"
+  },
+  "components/AllIntegrations/OneDrive/OneDriveAuthorization.jsx": {
+    "file": "bf-629-266.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-80-389.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/OneDrive/OneDriveAuthorization.jsx"
+  },
+  "components/AllIntegrations/Pabbly/EditPabbly.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-275-233.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-63-135.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Pabbly/EditPabbly.jsx"
+  },
+  "components/AllIntegrations/Pabbly/Pabbly.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-840-303.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Pabbly/Pabbly.jsx"
+  },
+  "components/AllIntegrations/Pods/EditPod.jsx": {
+    "file": "bf-134-223.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-67-72.js",
+      "_bf-396-375.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Pods/EditPod.jsx"
+  },
+  "components/AllIntegrations/Pods/Pods.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-434-304.js",
+    "imports": [
+      "main.jsx",
+      "_bf-773-372.js",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-396-375.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Pods/Pods.jsx"
+  },
+  "components/AllIntegrations/Rapidmail/EditRapidmail.jsx": {
+    "file": "bf-12-217.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-882-366.js",
+      "_bf-861-367.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Rapidmail/EditRapidmail.jsx"
+  },
+  "components/AllIntegrations/Rapidmail/Rapidmail.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-512-288.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/Rapidmail/RapidmailAuthorization.jsx",
+      "_bf-882-366.js",
+      "_bf-861-367.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Rapidmail/Rapidmail.jsx"
+  },
+  "components/AllIntegrations/Rapidmail/RapidmailAuthorization.jsx": {
+    "file": "bf-291-248.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-882-366.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Rapidmail/RapidmailAuthorization.jsx"
+  },
+  "components/AllIntegrations/SendFox/EditSendFox.jsx": {
+    "file": "bf-140-242.js",
+    "imports": [
+      "main.jsx",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-653-395.js",
+      "_bf-305-396.js",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendFox/EditSendFox.jsx"
+  },
+  "components/AllIntegrations/SendFox/SendFox.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-65-313.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/SendFox/SendFoxAuthorization.jsx",
+      "_bf-653-395.js",
+      "_bf-305-396.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendFox/SendFox.jsx"
+  },
+  "components/AllIntegrations/SendFox/SendFoxAuthorization.jsx": {
+    "file": "bf-665-269.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-653-395.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendFox/SendFoxAuthorization.jsx"
+  },
+  "components/AllIntegrations/SendinBlue/EditSendinBlue.jsx": {
+    "file": "bf-930-225.js",
+    "imports": [
+      "main.jsx",
+      "_bf-888-333.js",
+      "_bf-242-363.js",
+      "_bf-219-377.js",
+      "_bf-716-378.js",
+      "_bf-743-127.js",
+      "_bf-67-72.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendinBlue/EditSendinBlue.jsx"
+  },
+  "components/AllIntegrations/SendinBlue/SendinBlue.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-588-295.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/SendinBlue/SendinBlueAuthorization.jsx",
+      "_bf-219-377.js",
+      "_bf-716-378.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendinBlue/SendinBlue.jsx"
+  },
+  "components/AllIntegrations/SendinBlue/SendinBlueAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-651-250.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-219-377.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/SendinBlue/SendinBlueAuthorization.jsx"
+  },
+  "components/AllIntegrations/Telegram/EditTelegram.jsx": {
+    "file": "bf-408-234.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-270-382.js",
+      "_bf-140-383.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Telegram/EditTelegram.jsx"
+  },
+  "components/AllIntegrations/Telegram/Telegram.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-629-305.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/Telegram/TelegramAuthorization.jsx",
+      "_bf-140-383.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-270-382.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Telegram/Telegram.jsx"
+  },
+  "components/AllIntegrations/Telegram/TelegramAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-343-251.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-270-382.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Telegram/TelegramAuthorization.jsx"
+  },
+  "components/AllIntegrations/Twilio/EditTwilio.jsx": {
+    "file": "bf-910-244.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-198-399.js",
+      "_bf-89-400.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Twilio/EditTwilio.jsx"
+  },
+  "components/AllIntegrations/Twilio/Twilio.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-275-315.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/Twilio/TwilioAuthorization.jsx",
+      "_bf-198-399.js",
+      "_bf-89-400.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Twilio/Twilio.jsx"
+  },
+  "components/AllIntegrations/Twilio/TwilioAuthorization.jsx": {
+    "file": "bf-703-271.js",
+    "imports": [
+      "main.jsx",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-198-399.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Twilio/TwilioAuthorization.jsx"
+  },
+  "components/AllIntegrations/WebHooks/EditWebHooks.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-88-228.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-63-135.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/WebHooks/EditWebHooks.jsx"
+  },
+  "components/AllIntegrations/WebHooks/WebHooks.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-832-298.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/WebHooks/WebHooks.jsx"
+  },
+  "components/AllIntegrations/WooCommerce/EditWooCommerce.jsx": {
+    "file": "bf-708-226.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-729-379.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/WooCommerce/EditWooCommerce.jsx"
+  },
+  "components/AllIntegrations/WooCommerce/WooCommerce.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-831-296.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "_bf-44-197.js",
+      "_bf-729-379.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/WooCommerce/WooCommerce.jsx"
+  },
+  "components/AllIntegrations/Zapier/EditZapier.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-399-229.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-63-135.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Zapier/EditZapier.jsx"
+  },
+  "components/AllIntegrations/Zapier/Zapier.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "dynamicImports": [
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx"
+    ],
+    "file": "bf-129-299.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-288-77.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/Zapier/Zapier.jsx"
+  },
+  "components/AllIntegrations/ZohoAnalytics/EditZohoAnalytics.jsx": {
+    "file": "bf-551-202.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-774-334.js",
+      "_bf-512-335.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoAnalytics/EditZohoAnalytics.jsx"
+  },
+  "components/AllIntegrations/ZohoAnalytics/ZohoAnalytics.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-170-274.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoAnalytics/ZohoAnalyticsAuthorization.jsx",
+      "_bf-774-334.js",
+      "_bf-512-335.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoAnalytics/ZohoAnalytics.jsx"
+  },
+  "components/AllIntegrations/ZohoAnalytics/ZohoAnalyticsAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-626-252.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-774-334.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoAnalytics/ZohoAnalyticsAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoBigin/EditZohoBigin.jsx": {
+    "file": "bf-531-203.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-752-337.js",
+      "_bf-966-338.js",
+      "_bf-41-74.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoBigin/EditZohoBigin.jsx"
+  },
+  "components/AllIntegrations/ZohoBigin/ZohoBigin.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-142-275.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoBigin/ZohoBiginAuthorization.jsx",
+      "_bf-752-337.js",
+      "_bf-966-338.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-41-74.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoBigin/ZohoBigin.jsx"
+  },
+  "components/AllIntegrations/ZohoBigin/ZohoBiginAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-960-253.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-752-337.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoBigin/ZohoBiginAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx": {
+    "file": "bf-243-206.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-848-343.js",
+      "_bf-986-344.js",
+      "_bf-41-74.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/EditZohoCRM.jsx"
+  },
+  "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-490-273.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx",
+      "_bf-848-343.js",
+      "_bf-986-344.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-41-74.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/ZohoCRM.jsx"
+  },
+  "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-985-256.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-848-343.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCRM/ZohoCRMAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoCampaigns/EditZohoCampaigns.jsx": {
+    "file": "bf-902-204.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-475-339.js",
+      "_bf-45-340.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCampaigns/EditZohoCampaigns.jsx"
+  },
+  "components/AllIntegrations/ZohoCampaigns/ZohoCampaigns.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-559-276.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoCampaigns/ZohoCampaignsAuthorization.jsx",
+      "_bf-475-339.js",
+      "_bf-45-340.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCampaigns/ZohoCampaigns.jsx"
+  },
+  "components/AllIntegrations/ZohoCampaigns/ZohoCampaignsAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-371-254.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-475-339.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCampaigns/ZohoCampaignsAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoCreator/EditZohoCreator.jsx": {
+    "file": "bf-555-205.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-896-341.js",
+      "_bf-341-342.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCreator/EditZohoCreator.jsx"
+  },
+  "components/AllIntegrations/ZohoCreator/ZohoCreator.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-788-277.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoCreator/ZohoCreatorAuthorization.jsx",
+      "_bf-896-341.js",
+      "_bf-341-342.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCreator/ZohoCreator.jsx"
+  },
+  "components/AllIntegrations/ZohoCreator/ZohoCreatorAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-608-255.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-896-341.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoCreator/ZohoCreatorAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoDesk/EditZohoDesk.jsx": {
+    "file": "bf-355-207.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-219-345.js",
+      "_bf-133-346.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoDesk/EditZohoDesk.jsx"
+  },
+  "components/AllIntegrations/ZohoDesk/ZohoDesk.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-616-278.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoDesk/ZohoDeskAuthorization.jsx",
+      "_bf-219-345.js",
+      "_bf-133-346.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoDesk/ZohoDesk.jsx"
+  },
+  "components/AllIntegrations/ZohoDesk/ZohoDeskAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-519-257.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-219-345.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoDesk/ZohoDeskAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoFlow/EditZohoFlow.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-564-231.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "_bf-63-135.js",
+      "_bf-743-127.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-183-126.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoFlow/EditZohoFlow.jsx"
+  },
+  "components/AllIntegrations/ZohoFlow/ZohoFlow.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-117-301.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "components/AllIntegrations/IntegrationHelpers/WebHooksIntegration.jsx",
+      "_bf-288-77.js",
+      "_bf-610-73.js",
+      "_bf-743-127.js",
+      "_bf-8-69.js",
+      "_bf-183-126.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoFlow/ZohoFlow.jsx"
+  },
+  "components/AllIntegrations/ZohoMail/EditZohoMail.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-749-208.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-390-347.js",
+      "_bf-398-348.js",
+      "_bf-743-127.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMail/EditZohoMail.jsx"
+  },
+  "components/AllIntegrations/ZohoMail/ZohoMail.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-342-279.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoMail/ZohoMailAuthorization.jsx",
+      "_bf-398-348.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-390-347.js",
+      "_bf-743-127.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMail/ZohoMail.jsx"
+  },
+  "components/AllIntegrations/ZohoMail/ZohoMailAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-412-258.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-390-347.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMail/ZohoMailAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoMarketingHub/EditZohoMarketingHub.jsx": {
+    "file": "bf-445-209.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-649-349.js",
+      "_bf-796-350.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMarketingHub/EditZohoMarketingHub.jsx"
+  },
+  "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHub.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-672-280.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHubAuthorization.jsx",
+      "_bf-649-349.js",
+      "_bf-796-350.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHub.jsx"
+  },
+  "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHubAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-5-259.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-649-349.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoMarketingHub/ZohoMarketingHubAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoProjects/EditZohoProjects.jsx": {
+    "file": "bf-344-210.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-718-351.js",
+      "_bf-721-352.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoProjects/EditZohoProjects.jsx"
+  },
+  "components/AllIntegrations/ZohoProjects/ZohoProjects.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-659-281.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoProjects/ZohoProjectsAuthorization.jsx",
+      "_bf-718-351.js",
+      "_bf-721-352.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoProjects/ZohoProjects.jsx"
+  },
+  "components/AllIntegrations/ZohoProjects/ZohoProjectsAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-715-260.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-718-351.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoProjects/ZohoProjectsAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoRecruit/EditZohoRecruit.jsx": {
+    "file": "bf-132-211.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-751-353.js",
+      "_bf-492-354.js",
+      "_bf-41-74.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoRecruit/EditZohoRecruit.jsx"
+  },
+  "components/AllIntegrations/ZohoRecruit/ZohoRecruit.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-895-282.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoRecruit/ZohoRecruitAuthorization.jsx",
+      "_bf-751-353.js",
+      "_bf-492-354.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-41-74.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoRecruit/ZohoRecruit.jsx"
+  },
+  "components/AllIntegrations/ZohoRecruit/ZohoRecruitAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-72-261.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-751-353.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoRecruit/ZohoRecruitAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoSheet/EditZohoSheet.jsx": {
+    "file": "bf-684-212.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-701-355.js",
+      "_bf-678-356.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSheet/EditZohoSheet.jsx"
+  },
+  "components/AllIntegrations/ZohoSheet/ZohoSheet.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-219-283.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoSheet/ZohoSheetAuthorization.jsx",
+      "_bf-701-355.js",
+      "_bf-678-356.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-102-76.js",
+      "_bf-680-336.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSheet/ZohoSheet.jsx"
+  },
+  "components/AllIntegrations/ZohoSheet/ZohoSheetAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-994-262.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-701-355.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSheet/ZohoSheetAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoSign/EditZohoSign.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-887-213.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-89-357.js",
+      "_bf-67-358.js",
+      "_bf-743-127.js",
+      "_bf-501-79.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSign/EditZohoSign.jsx"
+  },
+  "components/AllIntegrations/ZohoSign/ZohoSign.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-470-284.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoSign/ZohoSignAuthorization.jsx",
+      "_bf-89-357.js",
+      "_bf-67-358.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-743-127.js",
+      "_bf-501-79.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSign/ZohoSign.jsx"
+  },
+  "components/AllIntegrations/ZohoSign/ZohoSignAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-512-263.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-89-357.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoSign/ZohoSignAuthorization.jsx"
+  },
+  "components/AllIntegrations/ZohoWorkDrive/EditZohoWorkDrive.jsx": {
+    "file": "bf-446-214.js",
+    "imports": [
+      "main.jsx",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-359-359.js",
+      "_bf-810-360.js",
+      "_bf-743-127.js",
+      "_bf-680-336.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoWorkDrive/EditZohoWorkDrive.jsx"
+  },
+  "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDrive.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-119-285.js",
+    "imports": [
+      "main.jsx",
+      "_bf-63-135.js",
+      "_bf-67-72.js",
+      "_bf-888-333.js",
+      "_bf-526-402.js",
+      "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDriveAuthorization.jsx",
+      "_bf-810-360.js",
+      "_bf-288-77.js",
+      "_bf-44-197.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-320-401.js",
+      "_bf-359-359.js",
+      "_bf-743-127.js",
+      "_bf-680-336.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDrive.jsx"
+  },
+  "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDriveAuthorization.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-252-264.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-63-135.js",
+      "_bf-320-401.js",
+      "_bf-526-402.js",
+      "_bf-359-359.js",
+      "_bf-288-77.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AllIntegrations/ZohoWorkDrive/ZohoWorkDriveAuthorization.jsx"
+  },
+  "components/AuthSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-505-134.js",
+    "imports": [
+      "main.jsx",
+      "_bf-932-200.js",
+      "_bf-367-71.js",
+      "_bf-102-76.js",
+      "_bf-149-112.js",
+      "_bf-878-130.js",
+      "_bf-44-197.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/AuthSettings.jsx"
+  },
+  "components/CompSettings/AdvanceFileUpSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-23-164.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-149-112.js",
+      "_bf-818-129.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-776-325.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-743-127.js",
+      "_bf-99-111.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-766-192.js",
+      "_bf-809-326.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/AdvanceFileUpSettings.jsx"
+  },
+  "components/CompSettings/ButtonSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-872-165.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-827-323.js",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/ButtonSettings.jsx"
+  },
+  "components/CompSettings/CountryFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-321-166.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-29-327.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-766-192.js",
+      "_bf-809-326.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/CountryFieldSettings.jsx"
+  },
+  "components/CompSettings/CurrencyFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-349-167.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-29-327.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-352-145.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/CurrencyFieldSettings.jsx"
+  },
+  "components/CompSettings/CustomCodeEditor.jsx": {
+    "file": "bf-495-103.js",
+    "imports": [
+      "main.jsx",
+      "_bf-57-191.js",
+      "_bf-32-121.js",
+      "_bf-648-122.js",
+      "_bf-766-192.js",
+      "_bf-8-69.js",
+      "_bf-120-151.js",
+      "_bf-493-110.js",
+      "_bf-803-75.js",
+      "_bf-610-73.js",
+      "_bf-303-152.js",
+      "_bf-149-112.js",
+      "_bf-99-111.js",
+      "_bf-311-113.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/CustomCodeEditor.jsx"
+  },
+  "components/CompSettings/DecisionBoxSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-796-168.js",
+    "imports": [
+      "main.jsx",
+      "_bf-809-326.js",
+      "_bf-336-157.js",
+      "_bf-149-112.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-647-118.js",
+      "_bf-827-323.js",
+      "_bf-526-189.js",
+      "_bf-776-325.js",
+      "_bf-485-83.js",
+      "_bf-766-192.js",
+      "_bf-610-73.js",
+      "_bf-99-111.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-648-122.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/DecisionBoxSettings.jsx"
+  },
+  "components/CompSettings/DividerSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-24-169.js",
+    "imports": [
+      "main.jsx",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-336-157.js",
+      "_bf-542-156.js",
+      "_bf-352-145.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/DividerSettings.jsx"
+  },
+  "components/CompSettings/DropdownFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-53-170.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-102-76.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-29-327.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-352-145.js",
+      "_bf-803-75.js",
+      "_bf-743-127.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/DropdownFieldSettings.jsx"
+  },
+  "components/CompSettings/FieldsList.jsx": {
+    "file": "bf-865-96.js",
+    "imports": [
+      "main.jsx",
+      "_bf-660-147.js",
+      "_bf-99-111.js",
+      "_bf-598-148.js",
+      "_bf-69-80.js",
+      "_bf-833-143.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/FieldsList.jsx"
+  },
+  "components/CompSettings/FileUploadSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-961-171.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-766-192.js",
+      "_bf-818-129.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-776-325.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-743-127.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/FileUploadSettings.jsx"
+  },
+  "components/CompSettings/HtmlFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-662-172.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-336-157.js",
+      "_bf-149-112.js",
+      "_bf-290-93.js",
+      "_bf-827-323.js",
+      "_bf-526-189.js",
+      "_bf-647-118.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-311-113.js",
+      "_bf-485-83.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-542-156.js",
+      "_bf-352-145.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/HtmlFieldSettings.jsx"
+  },
+  "components/CompSettings/HtmlSelectSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-15-173.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-290-93.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-526-189.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-542-156.js",
+      "_bf-352-145.js",
+      "_bf-766-192.js",
+      "_bf-809-326.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/HtmlSelectSettings.jsx"
+  },
+  "components/CompSettings/ImageSelectField/ImageSelectFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-213-188.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-809-326.js",
+      "_bf-610-73.js",
+      "_bf-647-118.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-352-145.js",
+      "_bf-542-156.js",
+      "_bf-766-192.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/ImageSelectField/ImageSelectFieldSettings.jsx"
+  },
+  "components/CompSettings/ImageSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-118-174.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-610-73.js",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/ImageSettings.jsx"
+  },
+  "components/CompSettings/MultiStepSettings.jsx": {
+    "file": "bf-772-94.js",
+    "imports": [
+      "main.jsx",
+      "_bf-526-189.js",
+      "_bf-542-156.js",
+      "_bf-336-157.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-729-161.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/MultiStepSettings.jsx"
+  },
+  "components/CompSettings/PaypalFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-743-175.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-336-157.js",
+      "_bf-102-76.js",
+      "_bf-377-331.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/PaypalFieldSettings.jsx"
+  },
+  "components/CompSettings/PhoneNumberFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-234-177.js",
+    "imports": [
+      "main.jsx",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-29-327.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/PhoneNumberFieldSettings.jsx"
+  },
+  "components/CompSettings/RadioCheckSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-402-178.js",
+    "imports": [
+      "main.jsx",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-485-83.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/RadioCheckSettings.jsx"
+  },
+  "components/CompSettings/RatingField/RatingFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-515-187.js",
+    "imports": [
+      "main.jsx",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-776-325.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-809-326.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-743-127.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/RatingField/RatingFieldSettings.jsx"
+  },
+  "components/CompSettings/RazorpayFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-549-179.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-102-76.js",
+      "_bf-377-331.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/RazorpayFieldSettings.jsx"
+  },
+  "components/CompSettings/ReCaptchaSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-707-180.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-542-156.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-526-189.js",
+      "_bf-290-93.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-352-145.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/ReCaptchaSettings.jsx"
+  },
+  "components/CompSettings/RepeaterFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-73-185.js",
+    "imports": [
+      "main.jsx",
+      "_bf-336-157.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-526-189.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-352-145.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/RepeaterFieldSettings.jsx"
+  },
+  "components/CompSettings/SignatureField/SignatureFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-749-186.js",
+    "imports": [
+      "main.jsx",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-776-325.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-485-83.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-766-192.js",
+      "_bf-809-326.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-99-111.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/SignatureField/SignatureFieldSettings.jsx"
+  },
+  "components/CompSettings/SliderFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-928-183.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-445-332.js",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-776-325.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-352-145.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/SliderFieldSettings.jsx"
+  },
+  "components/CompSettings/StepSettings.jsx": {
+    "file": "bf-343-95.js",
+    "imports": [
+      "main.jsx",
+      "_bf-526-189.js",
+      "_bf-542-156.js",
+      "_bf-336-157.js",
+      "_bf-8-69.js",
+      "_bf-493-110.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StepSettings.jsx"
+  },
+  "components/CompSettings/StripeFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-157-176.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-199-149.js",
+      "_bf-526-189.js",
+      "_bf-336-157.js",
+      "_bf-102-76.js",
+      "_bf-149-112.js",
+      "_bf-377-331.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-99-111.js",
+      "_bf-542-156.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StripeFieldSettings.jsx"
+  },
+  "components/CompSettings/StyleCustomize/ChildComp/BorderControlMenu.jsx": {
+    "file": "bf-633-98.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-769-109.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StyleCustomize/ChildComp/BorderControlMenu.jsx"
+  },
+  "components/CompSettings/StyleCustomize/ChildComp/OutlineControlMenu.jsx": {
+    "file": "bf-547-99.js",
+    "imports": [
+      "main.jsx",
+      "_bf-108-114.js",
+      "_bf-769-109.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-417-108.js",
+      "_bf-489-107.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StyleCustomize/ChildComp/OutlineControlMenu.jsx"
+  },
+  "components/CompSettings/StyleCustomize/DropdownStyleEditors.jsx": {
+    "file": "bf-111-87.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-621-89.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-387-155.js",
+      "_bf-417-108.js",
+      "_bf-489-107.js",
+      "_bf-32-121.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StyleCustomize/DropdownStyleEditors.jsx"
+  },
+  "components/CompSettings/StyleCustomize/PaypalStyleEditor.jsx": {
+    "file": "bf-906-88.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-485-83.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/StyleCustomize/PaypalStyleEditor.jsx"
+  },
+  "components/CompSettings/TextFieldSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-622-182.js",
+    "imports": [
+      "main.jsx",
+      "_bf-743-127.js",
+      "_bf-32-121.js",
+      "_bf-336-157.js",
+      "_bf-445-332.js",
+      "_bf-526-189.js",
+      "_bf-8-69.js",
+      "_bf-377-331.js",
+      "_bf-290-93.js",
+      "_bf-809-326.js",
+      "_bf-827-323.js",
+      "_bf-608-324.js",
+      "_bf-221-328.js",
+      "_bf-776-325.js",
+      "_bf-827-330.js",
+      "_bf-929-329.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-352-145.js",
+      "_bf-542-156.js",
+      "_bf-766-192.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-387-155.js",
+      "_bf-288-77.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/TextFieldSettings.jsx"
+  },
+  "components/CompSettings/TitleSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-581-184.js",
+    "imports": [
+      "main.jsx",
+      "_bf-32-121.js",
+      "_bf-53-159.js",
+      "_bf-485-83.js",
+      "_bf-336-157.js",
+      "_bf-8-69.js",
+      "_bf-493-110.js",
+      "_bf-290-93.js",
+      "_bf-526-189.js",
+      "_bf-648-122.js",
+      "_bf-489-107.js",
+      "_bf-610-73.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-542-156.js",
+      "_bf-352-145.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/TitleSettings.jsx"
+  },
+  "components/CompSettings/TurnstileSettings.jsx": {
+    "css": [
+      "bf-720-421.css"
+    ],
+    "file": "bf-374-181.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-542-156.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-526-189.js",
+      "_bf-290-93.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-352-145.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/TurnstileSettings.jsx"
+  },
+  "components/CompSettings/doubleOptin/DoubleOptin.jsx": {
+    "file": "bf-951-140.js",
+    "imports": [
+      "main.jsx",
+      "_bf-932-200.js",
+      "_bf-44-197.js",
+      "_bf-367-71.js",
+      "_bf-149-112.js",
+      "_bf-647-118.js",
+      "_bf-648-122.js",
+      "_bf-102-76.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/CompSettings/doubleOptin/DoubleOptin.jsx"
+  },
+  "components/ConfType.jsx": {
+    "file": "bf-423-137.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-847-196.js",
+      "_bf-54-316.js",
+      "_bf-183-126.js",
+      "_bf-108-114.js",
+      "_bf-493-110.js",
+      "_bf-102-76.js",
+      "_bf-311-113.js",
+      "_bf-796-190.js",
+      "_bf-647-118.js",
+      "_bf-259-154.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-743-127.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ConfType.jsx"
+  },
+  "components/ConversationalFormSettings.jsx": {
+    "css": [
+      "bf-747-419.css",
+      "bf-612-423.css"
+    ],
+    "file": "bf-642-139.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-493-110.js",
+      "_bf-489-107.js",
+      "_bf-8-69.js",
+      "_bf-54-316.js",
+      "_bf-647-118.js",
+      "_bf-154-318.js",
+      "_bf-610-73.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-183-126.js",
+      "_bf-648-122.js",
+      "_bf-417-108.js",
+      "_bf-882-162.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ConversationalFormSettings.jsx"
+  },
+  "components/EmailTemplate.jsx": {
+    "dynamicImports": [
+      "components/EmailTemplateNew.jsx",
+      "components/EmailTemplateEdit.jsx"
+    ],
+    "file": "bf-361-132.js",
+    "imports": [
+      "main.jsx",
+      "_bf-951-195.js",
+      "_bf-847-196.js",
+      "_bf-183-126.js",
+      "_bf-44-197.js",
+      "_bf-536-85.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-501-79.js",
+      "_bf-833-143.js",
+      "_bf-873-116.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/EmailTemplate.jsx"
+  },
+  "components/EmailTemplateEdit.jsx": {
+    "file": "bf-889-194.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-648-122.js",
+      "_bf-647-118.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/EmailTemplateEdit.jsx"
+  },
+  "components/EmailTemplateNew.jsx": {
+    "file": "bf-165-193.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-648-122.js",
+      "_bf-647-118.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/EmailTemplateNew.jsx"
+  },
+  "components/FieldBlockWrapper.css": {
+    "file": "bf-244-424.css",
+    "src": "components/FieldBlockWrapper.css"
+  },
+  "components/FieldBlockWrapper.jsx": {
+    "assets": [
+      "bf-919-66.svg"
+    ],
+    "css": [
+      "bf-244-424.css",
+      "bf-720-421.css"
+    ],
+    "file": "bf-179-153.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-99-111.js",
+      "_bf-17-106.js",
+      "_bf-259-154.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/FieldBlockWrapper.jsx"
+  },
+  "components/FormSettings/FormAbandonment.jsx": {
+    "file": "bf-517-141.js",
+    "imports": [
+      "main.jsx",
+      "_bf-44-197.js",
+      "_bf-367-71.js",
+      "_bf-149-112.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/FormSettings/FormAbandonment.jsx"
+  },
+  "components/FormSettings/StandaloneForm.jsx": {
+    "file": "bf-605-142.js",
+    "imports": [
+      "main.jsx",
+      "_bf-99-111.js",
+      "_bf-311-113.js",
+      "_bf-493-110.js",
+      "_bf-8-69.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-154-318.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-417-108.js",
+      "_bf-882-162.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/FormSettings/StandaloneForm.jsx"
+  },
+  "components/LeftBars/StyleLayers.jsx": {
+    "file": "bf-406-105.js",
+    "imports": [
+      "main.jsx",
+      "_bf-681-150.js",
+      "_bf-120-151.js",
+      "_bf-311-113.js",
+      "_bf-303-152.js",
+      "_bf-149-112.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/LeftBars/StyleLayers.jsx"
+  },
+  "components/LeftBars/Toolbar.jsx": {
+    "file": "bf-252-104.js",
+    "imports": [
+      "main.jsx",
+      "_bf-426-146.js",
+      "_bf-660-147.js",
+      "_bf-99-111.js",
+      "_bf-598-148.js",
+      "_bf-69-80.js",
+      "_bf-833-143.js",
+      "_bf-199-149.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/LeftBars/Toolbar.jsx"
+  },
+  "components/PDF/EditPdfTemplate.jsx": {
+    "file": "bf-627-199.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-325-82.js",
+      "_bf-102-76.js",
+      "_bf-647-118.js",
+      "_bf-610-73.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/PDF/EditPdfTemplate.jsx"
+  },
+  "components/PDF/NewPdfTemplate.jsx": {
+    "file": "bf-107-198.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-325-82.js",
+      "_bf-102-76.js",
+      "_bf-647-118.js",
+      "_bf-610-73.js",
+      "_bf-648-122.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/PDF/NewPdfTemplate.jsx"
+  },
+  "components/PDF/PdfTemplate.jsx": {
+    "dynamicImports": [
+      "components/PDF/NewPdfTemplate.jsx",
+      "components/PDF/EditPdfTemplate.jsx"
+    ],
+    "file": "bf-440-133.js",
+    "imports": [
+      "main.jsx",
+      "_bf-536-85.js",
+      "_bf-951-195.js",
+      "_bf-847-196.js",
+      "_bf-44-197.js",
+      "_bf-183-126.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-501-79.js",
+      "_bf-833-143.js",
+      "_bf-873-116.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/PDF/PdfTemplate.jsx"
+  },
+  "components/ReportView/BarChart.jsx": {
+    "css": [
+      "bf-720-421.css",
+      "bf-747-419.css"
+    ],
+    "file": "bf-416-321.js",
+    "imports": [
+      "main.jsx",
+      "_bf-706-86.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-610-73.js",
+      "_bf-434-119.js",
+      "_bf-207-123.js",
+      "_bf-134-124.js",
+      "_bf-713-125.js",
+      "_bf-8-69.js",
+      "_bf-288-77.js",
+      "_bf-183-126.js",
+      "_bf-743-127.js",
+      "_bf-818-129.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js",
+      "_bf-149-112.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ReportView/BarChart.jsx"
+  },
+  "components/ReportView/FieldReport.jsx": {
+    "dynamicImports": [
+      "components/ReportView/TableChart.jsx",
+      "components/ReportView/PieChart.jsx",
+      "components/ReportView/BarChart.jsx",
+      "components/ReportView/LineChart.jsx"
+    ],
+    "file": "bf-75-144.js",
+    "imports": [
+      "main.jsx",
+      "_bf-610-73.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ReportView/FieldReport.jsx"
+  },
+  "components/ReportView/LineChart.jsx": {
+    "css": [
+      "bf-720-421.css",
+      "bf-747-419.css"
+    ],
+    "file": "bf-367-322.js",
+    "imports": [
+      "main.jsx",
+      "_bf-706-86.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-610-73.js",
+      "_bf-434-119.js",
+      "_bf-207-123.js",
+      "_bf-134-124.js",
+      "_bf-713-125.js",
+      "_bf-8-69.js",
+      "_bf-288-77.js",
+      "_bf-183-126.js",
+      "_bf-743-127.js",
+      "_bf-818-129.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js",
+      "_bf-149-112.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ReportView/LineChart.jsx"
+  },
+  "components/ReportView/PieChart.jsx": {
+    "css": [
+      "bf-720-421.css",
+      "bf-747-419.css"
+    ],
+    "file": "bf-329-320.js",
+    "imports": [
+      "main.jsx",
+      "_bf-706-86.js",
+      "_bf-352-145.js",
+      "_bf-311-113.js",
+      "_bf-610-73.js",
+      "_bf-434-119.js",
+      "_bf-207-123.js",
+      "_bf-134-124.js",
+      "_bf-713-125.js",
+      "_bf-8-69.js",
+      "_bf-288-77.js",
+      "_bf-183-126.js",
+      "_bf-743-127.js",
+      "_bf-818-129.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js",
+      "_bf-149-112.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ReportView/PieChart.jsx"
+  },
+  "components/ReportView/TableChart.jsx": {
+    "file": "bf-255-319.js",
+    "imports": [
+      "main.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/ReportView/TableChart.jsx"
+  },
+  "components/SingleFormSettings.jsx": {
+    "css": [
+      "bf-747-419.css",
+      "bf-612-423.css"
+    ],
+    "file": "bf-166-138.js",
+    "imports": [
+      "main.jsx",
+      "_bf-207-123.js",
+      "_bf-610-73.js",
+      "_bf-598-148.js",
+      "_bf-303-152.js",
+      "_bf-767-78.js",
+      "_bf-387-155.js",
+      "_bf-69-80.js",
+      "_bf-44-197.js",
+      "_bf-54-316.js",
+      "_bf-102-76.js",
+      "_bf-8-69.js",
+      "_bf-311-113.js",
+      "_bf-149-112.js",
+      "_bf-134-124.js",
+      "_bf-99-111.js",
+      "_bf-183-126.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/SingleFormSettings.jsx"
+  },
+  "components/Workflows/Workflow.css": {
+    "file": "bf-48-422.css",
+    "src": "components/Workflows/Workflow.css"
+  },
+  "components/Workflows/Workflow.jsx": {
+    "css": [
+      "bf-48-422.css",
+      "bf-720-421.css"
+    ],
+    "file": "bf-323-136.js",
+    "imports": [
+      "main.jsx",
+      "_bf-937-115.js",
+      "_bf-847-196.js",
+      "_bf-8-69.js",
+      "_bf-44-197.js",
+      "_bf-54-316.js",
+      "_bf-183-126.js",
+      "_bf-610-73.js",
+      "_bf-288-77.js",
+      "_bf-99-111.js",
+      "_bf-102-76.js",
+      "_bf-818-129.js",
+      "_bf-32-121.js",
+      "_bf-648-122.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js",
+      "_bf-743-127.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-311-113.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/Workflows/Workflow.jsx"
+  },
+  "components/style-new/FieldStyleCustomize.jsx": {
+    "file": "bf-441-90.js",
+    "imports": [
+      "main.jsx",
+      "_bf-681-150.js",
+      "_bf-542-156.js",
+      "_bf-336-157.js",
+      "_bf-493-110.js",
+      "_bf-485-83.js",
+      "_bf-311-113.js",
+      "_bf-417-108.js",
+      "_bf-508-158.js",
+      "_bf-53-159.js",
+      "_bf-626-160.js",
+      "_bf-729-161.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-882-162.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/FieldStyleCustomize.jsx"
+  },
+  "components/style-new/FontPickerMenu.jsx": {
+    "file": "bf-11-101.js",
+    "imports": [
+      "main.jsx",
+      "_bf-8-69.js",
+      "_bf-426-146.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-610-73.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/FontPickerMenu.jsx"
+  },
+  "components/style-new/MultistepCustomize.jsx": {
+    "file": "bf-451-92.js",
+    "imports": [
+      "main.jsx",
+      "_bf-542-156.js",
+      "_bf-493-110.js",
+      "_bf-626-160.js",
+      "_bf-485-83.js",
+      "_bf-20-163.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-417-108.js",
+      "_bf-882-162.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/MultistepCustomize.jsx"
+  },
+  "components/style-new/ShadowControlMenu.jsx": {
+    "file": "bf-984-102.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-610-73.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-8-69.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/ShadowControlMenu.jsx"
+  },
+  "components/style-new/SimpleColorsPickerMenu.jsx": {
+    "file": "bf-186-100.js",
+    "imports": [
+      "main.jsx",
+      "_bf-417-108.js",
+      "_bf-769-109.js",
+      "_bf-493-110.js",
+      "_bf-8-69.js",
+      "_bf-610-73.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/SimpleColorsPickerMenu.jsx"
+  },
+  "components/style-new/ThemeCustomize.jsx": {
+    "file": "bf-426-91.js",
+    "imports": [
+      "main.jsx",
+      "_bf-542-156.js",
+      "_bf-485-83.js",
+      "_bf-493-110.js",
+      "_bf-508-158.js",
+      "_bf-626-160.js",
+      "_bf-417-108.js",
+      "_bf-20-163.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-102-76.js",
+      "_bf-149-112.js",
+      "_bf-729-161.js",
+      "_bf-489-107.js",
+      "_bf-769-109.js",
+      "_bf-99-111.js",
+      "_bf-311-113.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js",
+      "_bf-882-162.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/ThemeCustomize.jsx"
+  },
+  "components/style-new/ThemeGallary.jsx": {
+    "file": "bf-587-97.js",
+    "imports": [
+      "main.jsx",
+      "_bf-485-83.js",
+      "_bf-796-190.js",
+      "_bf-610-73.js",
+      "_bf-8-69.js",
+      "_bf-489-107.js",
+      "_bf-417-108.js",
+      "_bf-493-110.js",
+      "_bf-99-111.js",
+      "_bf-149-112.js",
+      "_bf-311-113.js",
+      "_bf-769-109.js",
+      "_bf-108-114.js",
+      "_bf-937-115.js",
+      "_bf-713-125.js",
+      "_bf-134-124.js",
+      "_bf-419-81.js",
+      "_bf-873-116.js",
+      "_bf-372-117.js",
+      "_bf-367-71.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "components/style-new/ThemeGallary.jsx"
+  },
+  "components/style-new/themes/0_noStyle/noStyle.png": {
+    "file": "bf-147-65.png",
+    "src": "components/style-new/themes/0_noStyle/noStyle.png"
+  },
+  "components/style-new/themes/1_bitformDefault/bfDefault.png": {
+    "file": "bf-881-63.png",
+    "src": "components/style-new/themes/1_bitformDefault/bfDefault.png"
+  },
+  "components/style-new/themes/2_atlassian/atlassian.png": {
+    "file": "bf-525-64.png",
+    "src": "components/style-new/themes/2_atlassian/atlassian.png"
+  },
+  "default.css": {
+    "file": "bf-747-419.css",
+    "src": "default.css"
+  },
+  "index.css": {
+    "file": "bf-720-421.css",
+    "src": "index.css"
+  },
+  "main.css": {
+    "file": "main-677.css",
+    "src": "main.css"
+  },
+  "main.jsx": {
+    "assets": [
+      "logo.svg",
+      "bf-670-61.jpg"
+    ],
+    "css": [
+      "main-677.css"
+    ],
+    "dynamicImports": [
+      "pages/Welcome.jsx",
+      "pages/AppSettings.jsx",
+      "_bf-8-69.js",
+      "pages/Error404.jsx"
+    ],
+    "file": "main-677.js",
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "main.jsx"
+  },
+  "pages/AppSettings.jsx": {
+    "assets": [
+      "bf-509-3.svg",
+      "bf-578-4.svg",
+      "bf-229-5.svg",
+      "bf-197-6.svg",
+      "bf-874-7.svg"
+    ],
+    "file": "bf-474-68.js",
+    "imports": [
+      "main.jsx",
+      "_bf-367-71.js",
+      "_bf-67-72.js",
+      "_bf-610-73.js",
+      "_bf-41-74.js",
+      "_bf-803-75.js",
+      "_bf-102-76.js",
+      "_bf-288-77.js",
+      "_bf-767-78.js",
+      "_bf-501-79.js",
+      "_bf-69-80.js",
+      "_bf-419-81.js",
+      "_bf-325-82.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/AppSettings.jsx"
+  },
+  "pages/Error404.jsx": {
+    "assets": [
+      "bf-638-0.svg"
+    ],
+    "file": "bf-531-70.js",
+    "imports": [
+      "main.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/Error404.jsx"
+  },
+  "pages/FormEntries.jsx": {
+    "assets": [
+      "bf-892-2.svg"
+    ],
+    "css": [
+      "bf-747-419.css",
+      "bf-720-421.css"
+    ],
+    "file": "bf-44-84.js",
+    "imports": [
+      "main.jsx",
+      "_bf-419-81.js",
+      "_bf-41-74.js",
+      "_bf-647-118.js",
+      "_bf-610-73.js",
+      "_bf-434-119.js",
+      "_bf-8-69.js",
+      "_bf-32-121.js",
+      "_bf-648-122.js",
+      "_bf-207-123.js",
+      "_bf-134-124.js",
+      "_bf-713-125.js",
+      "_bf-288-77.js",
+      "_bf-183-126.js",
+      "_bf-743-127.js",
+      "_bf-818-129.js",
+      "_bf-878-130.js",
+      "_bf-554-131.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/FormEntries.jsx"
+  },
+  "pages/Welcome.jsx": {
+    "assets": [
+      "bf-71-1.svg"
+    ],
+    "file": "bf-620-67.js",
+    "imports": [
+      "main.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/Welcome.jsx"
+  },
+  "resource/img/cashback.jpg": {
+    "file": "bf-670-61.jpg",
+    "src": "resource/img/cashback.jpg"
+  },
+  "resource/img/cloudflare.svg": {
+    "file": "bf-578-4.svg",
+    "src": "resource/img/cloudflare.svg"
+  },
+  "resource/img/cloudflareRecaptcha.svg": {
+    "file": "bf-919-66.svg",
+    "src": "resource/img/cloudflareRecaptcha.svg"
+  },
+  "resource/img/grecaptcha.svg": {
+    "file": "bf-509-3.svg",
+    "src": "resource/img/grecaptcha.svg"
+  },
+  "resource/img/home.svg": {
+    "file": "bf-71-1.svg",
+    "src": "resource/img/home.svg"
+  },
+  "resource/img/integ/ACF.svg": {
+    "file": "bf-771-8.svg",
+    "src": "resource/img/integ/ACF.svg"
+  },
+  "resource/img/integ/Acumbamail.svg": {
+    "file": "bf-836-9.svg",
+    "src": "resource/img/integ/Acumbamail.svg"
+  },
+  "resource/img/integ/OneDrive.svg": {
+    "file": "bf-114-10.svg",
+    "src": "resource/img/integ/OneDrive.svg"
+  },
+  "resource/img/integ/activeCampaign.svg": {
+    "file": "bf-196-11.svg",
+    "src": "resource/img/integ/activeCampaign.svg"
+  },
+  "resource/img/integ/advancedFormIntegration.svg": {
+    "file": "bf-818-12.svg",
+    "src": "resource/img/integ/advancedFormIntegration.svg"
+  },
+  "resource/img/integ/analytics.svg": {
+    "file": "bf-207-13.svg",
+    "src": "resource/img/integ/analytics.svg"
+  },
+  "resource/img/integ/automatorWP.svg": {
+    "file": "bf-435-14.svg",
+    "src": "resource/img/integ/automatorWP.svg"
+  },
+  "resource/img/integ/autonami.svg": {
+    "file": "bf-343-15.svg",
+    "src": "resource/img/integ/autonami.svg"
+  },
+  "resource/img/integ/bigin.svg": {
+    "file": "bf-848-16.svg",
+    "src": "resource/img/integ/bigin.svg"
+  },
+  "resource/img/integ/campaigns.svg": {
+    "file": "bf-879-20.svg",
+    "src": "resource/img/integ/campaigns.svg"
+  },
+  "resource/img/integ/creator.svg": {
+    "file": "bf-265-17.svg",
+    "src": "resource/img/integ/creator.svg"
+  },
+  "resource/img/integ/crm.svg": {
+    "file": "bf-890-18.svg",
+    "src": "resource/img/integ/crm.svg"
+  },
+  "resource/img/integ/desk.svg": {
+    "file": "bf-598-19.svg",
+    "src": "resource/img/integ/desk.svg"
+  },
+  "resource/img/integ/dropbox.svg": {
+    "file": "bf-534-21.svg",
+    "src": "resource/img/integ/dropbox.svg"
+  },
+  "resource/img/integ/elasticemail.svg": {
+    "file": "bf-728-23.svg",
+    "src": "resource/img/integ/elasticemail.svg"
+  },
+  "resource/img/integ/encharge .svg": {
+    "file": "bf-622-22.svg",
+    "src": "resource/img/integ/encharge .svg"
+  },
+  "resource/img/integ/flowmattic.svg": {
+    "file": "bf-821-24.svg",
+    "src": "resource/img/integ/flowmattic.svg"
+  },
+  "resource/img/integ/fluentcrm.svg": {
+    "file": "bf-840-25.svg",
+    "src": "resource/img/integ/fluentcrm.svg"
+  },
+  "resource/img/integ/getgist.svg": {
+    "file": "bf-80-26.svg",
+    "src": "resource/img/integ/getgist.svg"
+  },
+  "resource/img/integ/googleSheets.svg": {
+    "file": "bf-424-27.svg",
+    "src": "resource/img/integ/googleSheets.svg"
+  },
+  "resource/img/integ/groundhogg.svg": {
+    "file": "bf-588-28.svg",
+    "src": "resource/img/integ/groundhogg.svg"
+  },
+  "resource/img/integ/hub.svg": {
+    "file": "bf-388-29.svg",
+    "src": "resource/img/integ/hub.svg"
+  },
+  "resource/img/integ/hubspot.svg": {
+    "file": "bf-149-30.svg",
+    "src": "resource/img/integ/hubspot.svg"
+  },
+  "resource/img/integ/ifttt.svg": {
+    "file": "bf-314-31.svg",
+    "src": "resource/img/integ/ifttt.svg"
+  },
+  "resource/img/integ/integrately.svg": {
+    "file": "bf-728-32.svg",
+    "src": "resource/img/integ/integrately.svg"
+  },
+  "resource/img/integ/integromat.svg": {
+    "file": "bf-276-33.svg",
+    "src": "resource/img/integ/integromat.svg"
+  },
+  "resource/img/integ/mail.svg": {
+    "file": "bf-485-34.svg",
+    "src": "resource/img/integ/mail.svg"
+  },
+  "resource/img/integ/mailchimp.svg": {
+    "file": "bf-282-35.svg",
+    "src": "resource/img/integ/mailchimp.svg"
+  },
+  "resource/img/integ/mailerLite.svg": {
+    "file": "bf-521-36.svg",
+    "src": "resource/img/integ/mailerLite.svg"
+  },
+  "resource/img/integ/mailpoet.svg": {
+    "file": "bf-871-37.svg",
+    "src": "resource/img/integ/mailpoet.svg"
+  },
+  "resource/img/integ/metabox.svg": {
+    "file": "bf-94-39.svg",
+    "src": "resource/img/integ/metabox.svg"
+  },
+  "resource/img/integ/n8n.svg": {
+    "file": "bf-155-38.svg",
+    "src": "resource/img/integ/n8n.svg"
+  },
+  "resource/img/integ/pabbly.svg": {
+    "file": "bf-640-40.svg",
+    "src": "resource/img/integ/pabbly.svg"
+  },
+  "resource/img/integ/pods.svg": {
+    "file": "bf-425-41.svg",
+    "src": "resource/img/integ/pods.svg"
+  },
+  "resource/img/integ/projects.svg": {
+    "file": "bf-441-42.svg",
+    "src": "resource/img/integ/projects.svg"
+  },
+  "resource/img/integ/rapidmail.svg": {
+    "file": "bf-438-43.svg",
+    "src": "resource/img/integ/rapidmail.svg"
+  },
+  "resource/img/integ/recruit.svg": {
+    "file": "bf-780-44.svg",
+    "src": "resource/img/integ/recruit.svg"
+  },
+  "resource/img/integ/sendfox.svg": {
+    "file": "bf-872-45.svg",
+    "src": "resource/img/integ/sendfox.svg"
+  },
+  "resource/img/integ/sendinblue.svg": {
+    "file": "bf-162-46.svg",
+    "src": "resource/img/integ/sendinblue.svg"
+  },
+  "resource/img/integ/sheet.svg": {
+    "file": "bf-298-47.svg",
+    "src": "resource/img/integ/sheet.svg"
+  },
+  "resource/img/integ/sign.svg": {
+    "file": "bf-602-48.svg",
+    "src": "resource/img/integ/sign.svg"
+  },
+  "resource/img/integ/sperseio.svg": {
+    "file": "bf-858-50.svg",
+    "src": "resource/img/integ/sperseio.svg"
+  },
+  "resource/img/integ/sureTriggers.svg": {
+    "file": "bf-131-49.svg",
+    "src": "resource/img/integ/sureTriggers.svg"
+  },
+  "resource/img/integ/telegram.svg": {
+    "file": "bf-333-51.svg",
+    "src": "resource/img/integ/telegram.svg"
+  },
+  "resource/img/integ/thriveAutomator.svg": {
+    "file": "bf-669-52.svg",
+    "src": "resource/img/integ/thriveAutomator.svg"
+  },
+  "resource/img/integ/twilio.svg": {
+    "file": "bf-824-54.svg",
+    "src": "resource/img/integ/twilio.svg"
+  },
+  "resource/img/integ/uncannyAutomator.svg": {
+    "file": "bf-796-56.svg",
+    "src": "resource/img/integ/uncannyAutomator.svg"
+  },
+  "resource/img/integ/webhooks.svg": {
+    "file": "bf-850-53.svg",
+    "src": "resource/img/integ/webhooks.svg"
+  },
+  "resource/img/integ/woocommerce.svg": {
+    "file": "bf-144-59.svg",
+    "src": "resource/img/integ/woocommerce.svg"
+  },
+  "resource/img/integ/workdrive.svg": {
+    "file": "bf-711-55.svg",
+    "src": "resource/img/integ/workdrive.svg"
+  },
+  "resource/img/integ/wpWebhooks.svg": {
+    "file": "bf-937-57.svg",
+    "src": "resource/img/integ/wpWebhooks.svg"
+  },
+  "resource/img/integ/zapier.svg": {
+    "file": "bf-729-58.svg",
+    "src": "resource/img/integ/zapier.svg"
+  },
+  "resource/img/integ/zohoflow.svg": {
+    "file": "bf-53-60.svg",
+    "src": "resource/img/integ/zohoflow.svg"
+  },
+  "resource/img/nodata.svg": {
+    "file": "bf-892-2.svg",
+    "src": "resource/img/nodata.svg"
+  },
+  "resource/img/settings/paypal.svg": {
+    "file": "bf-229-5.svg",
+    "src": "resource/img/settings/paypal.svg"
+  },
+  "resource/img/settings/razorpay.svg": {
+    "file": "bf-197-6.svg",
+    "src": "resource/img/settings/razorpay.svg"
+  },
+  "resource/img/settings/stripe.svg": {
+    "file": "bf-874-7.svg",
+    "src": "resource/img/settings/stripe.svg"
+  },
+  "resource/img/space.svg": {
+    "file": "bf-638-0.svg",
+    "src": "resource/img/space.svg"
+  },
+  "style.css": {
+    "file": "bf-612-423.css",
+    "src": "style.css"
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "packages": [
+        {
+            "name": "arif-un/jcof",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Arif-un/jcof-php.git",
+                "reference": "8d5596baeeef37b7e80e530730ed754cf36776f4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Arif-un/jcof-php/zipball/8d5596baeeef37b7e80e530730ed754cf36776f4",
+                "reference": "8d5596baeeef37b7e80e530730ed754cf36776f4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "laravel/pint": "^1.13",
+                "pestphp/pest": "^2.19",
+                "phpcompatibility/php-compatibility": "*",
+                "squizlabs/php_codesniffer": "*"
+            },
+            "time": "2023-09-27T10:46:27+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Jcof\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Arif Uddin",
+                    "email": "arifunctg@gmail.com"
+                }
+            ],
+            "description": "Compress JSON in half",
+            "keywords": [
+                "jcof",
+                "json-compress",
+                "json-optimize"
+            ],
+            "support": {
+                "issues": "https://github.com/arif-un/jcof-php/issues",
+                "source": "https://github.com/arif-un/jcof-php"
+            },
+            "install-path": "../arif-un/jcof"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
